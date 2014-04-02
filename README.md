@@ -15,6 +15,9 @@ Github account: alanlau730
 
 Lab Session: Wed 2pm
 
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
+
 ![Minion Cat](https://octodex.github.com/images/goretocat.png)
 
 
